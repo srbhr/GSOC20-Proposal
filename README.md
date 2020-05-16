@@ -6,9 +6,7 @@ Reason for rejection is also available in the screen shots.
 
 ## Proposal
 
-Link: 
-
-[GSOC 2020 Proposal] (https://github.com/srbhr/GSOC20-Proposal/blob/master/GSOC_2020_Apertium_Proposal.pdf)
+[GSOC 2020 Proposal](GSOC_2020_Apertium_Proposal.pdf)
 
 Detailed Proposal can be found at the link below with reviews from the mentor.
 
