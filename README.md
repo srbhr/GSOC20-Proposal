@@ -12,6 +12,12 @@ Detailed Proposal can be found at the above link with reviews from the mentor.
 
 Reason for rejection is also available in the screen shots.
 
+## Proposal
+
+Link: 
+
+[GSOC Proposal PDF]: GSOC_2020_Apertium_Proposal.pdf
+
 
 
 ## Organization: Apertium Machine Translation
@@ -50,4 +56,4 @@ Note: I'm srbhr, firespeaker is one of the mentors.
 
 
 
-![GSOC Rejection Mail.png](GSOC Rejection Mail.png)
+![GSOC_Rejection_Mail.png](GSOC_Rejection_Mail.png)
